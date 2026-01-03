@@ -213,4 +213,4 @@ process.on('uncaughtException', err => console.error('Exception:', err));
 
 Pour toute question, consultez la structure et modifiez selon vos besoins.
 
-**Créé avec ❤️ par AylowDev**
+**Créé avec ❤️ par Aylow**
