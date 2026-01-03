@@ -1,0 +1,91 @@
+{
+  "1456361322408316950": {
+    "panels": [
+      {
+        "id": "panel_1767303116736_1243911915651072060",
+        "name": "Sup",
+        "description": "",
+        "channelId": "1456396864487424138",
+        "categoryId": "1456399038764028190",
+        "types": [
+          "support",
+          "report",
+          "autre"
+        ],
+        "supportRoles": [
+          "1456381910568669397"
+        ],
+        "createdAt": 1767303128830
+      },
+      {
+        "id": "panel_1767312439830_1243911915651072060",
+        "name": "Support",
+        "description": "blablabla",
+        "channelId": "1456396864487424138",
+        "categoryId": "1456399038764028190",
+        "types": [
+          "support",
+          "report",
+          "autre"
+        ],
+        "supportRoles": [
+          "1456381910568669397"
+        ],
+        "createdAt": 1767312461200
+      },
+      {
+        "id": "panel_1767367760876_1243911915651072060",
+        "name": "BLABLA",
+        "description": "",
+        "channelId": "1456396864487424138",
+        "categoryId": "1456399038764028190",
+        "types": [
+          "support",
+          "report",
+          "autre"
+        ],
+        "supportRoles": [
+          "1456381910568669397"
+        ],
+        "createdAt": 1767367774925
+      },
+      {
+        "id": "panel_1767368264005_1243911915651072060",
+        "name": "klmjnbfdsw",
+        "description": "",
+        "channelId": "1456396864487424138",
+        "categoryId": "1456399038764028190",
+        "types": [
+          "support",
+          "report",
+          "autre"
+        ],
+        "supportRoles": [
+          "1456381910568669397"
+        ],
+        "createdAt": 1767368277276
+      }
+    ],
+    "settings": {},
+    "ticketTypes": [
+      {
+        "id": "support",
+        "name": "Support",
+        "emoji": "🆘",
+        "color": "#5865F2"
+      },
+      {
+        "id": "report",
+        "name": "Report",
+        "emoji": "⚠️",
+        "color": "#FFA500"
+      }
+    ],
+    "embedConfig": {
+      "title": "🎫 Créer un Ticket",
+      "description": "Cliquez sur le bouton ci-dessous pour créer un ticket",
+      "color": "#FF5733",
+      "footer": "Système de tickets"
+    }
+  }
+}

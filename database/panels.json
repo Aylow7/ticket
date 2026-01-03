@@ -1,0 +1,22 @@
+{
+  "guilds": {
+    "1456361322408316950": [
+      {
+        "id": "ticket-1767299173185-smdj7fz9s",
+        "name": "Support",
+        "description": "Pour toute demande d'aide",
+        "categoryId": "1456361323817472193",
+        "guildId": "1456361322408316950",
+        "enabled": true,
+        "createdAt": 1767299173185,
+        "autoClose": true,
+        "autoCloseTime": 7,
+        "claimEnabled": true,
+        "cooldown": 0,
+        "maxTickets": 5,
+        "panelMessageId": "1456383031873896584",
+        "panelChannelId": "1456361323817472195"
+      }
+    ]
+  }
+}
